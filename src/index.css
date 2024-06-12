@@ -1,0 +1,16 @@
+
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  body {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-display: swap;
+    
+  }
+}
